@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 permalink: /about/
 modified: 2016-11-20
 ---
