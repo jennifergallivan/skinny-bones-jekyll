@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: archive
 permalink: /about/
 modified: 2016-11-20
 ---
