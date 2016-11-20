@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: default
 permalink: /about/
 modified: 2016-11-20
 ---
