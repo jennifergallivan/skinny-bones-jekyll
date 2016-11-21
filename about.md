@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /about/
 modified: 2016-11-20T11:57:41-04:00
 published: true
