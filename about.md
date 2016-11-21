@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: single
 permalink: /about/
 modified: 2016-11-20
 share: false
